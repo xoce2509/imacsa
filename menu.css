@@ -17,7 +17,7 @@
 
 body {
   font-family: Alegreya Sans;
-  background: url(/assets/img/fondocontrol.webp);
+  background: url(fondocontrol.webp);
   background-position: center;
   background-size: cover;
   min-height: 100vh;
