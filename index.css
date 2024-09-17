@@ -17,7 +17,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(/assets/img/fondomenu.jpg);
+    background: url(fondomenu.jpg);
     background-size: cover;
     min-height: 100vh;
 }
